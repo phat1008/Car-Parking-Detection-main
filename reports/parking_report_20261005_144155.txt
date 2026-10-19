@@ -1,0 +1,18 @@
+Parking Lot Analysis Report
+Generated on: 2026-10-05 14:41:58
+
+Space Distribution:
+Total Parking Spaces: 1119
+Special Parking Spaces: 0
+Regular Parking Spaces: 1119
+
+Occupancy Status:
+Total Occupied Spaces: 745
+Total Available Spaces: 374
+Special Spaces Occupied: 0
+Regular Spaces Occupied: 745
+
+Occupancy Rates:
+Overall Occupancy: 66.6%
+Special Spaces Occupancy: N/A (No special spaces detected)
+Regular Spaces Occupancy: 66.6%
